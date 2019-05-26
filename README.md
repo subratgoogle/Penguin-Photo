@@ -5,4 +5,4 @@
 ### These are responsive photo and this is really amazing
 <hr>
 
-### [Click Here To See This]( https://subratgoogle.github.io/catphoto/.)
+### Click here to see this image  : [Click Here >>]( https://subratgoogle.github.io/catphoto/.)
